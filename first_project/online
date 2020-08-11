@@ -1,0 +1,16 @@
+<! doctyle html>
+<html>
+<head><B><H1 CENTER>MAKERERE UNIVERSITY</H1></B></head>
+<CENTER RIGHT><BODY>
+<form name="online"action="conn4.php">
+<table border=2>
+<THEAD><TR><TH><H2 CENTER>REGISTERED STUDENTS</H2></TH></TR>
+<TR><TH><H3 CENTER>login now for your personnal information</H3></TH></TR>
+</THEAD>
+<tbody><tr><td>Registration Number<input type="text"required name="regno"></td></tr>
+<tr><td>password<input type="password"required name="password"><td></tr>
+<tr><td>Login using: id Number<input type="radio"name="id"> Registration No<input type="radio" name="id"> Alternative No<input type="radio"name="id"></td></tr>
+<tr><td><input type="submit"value="login"></td></tr>
+<tbody></table></form>
+</BODY></CENTER>
+</html>
